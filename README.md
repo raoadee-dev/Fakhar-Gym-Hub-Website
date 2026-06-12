@@ -1,2 +1,21 @@
-# Fakhar-Gym-Hub-Website
-A modern, dark-themed gym website for Fakhar Gym Hub Lodhran featuring full facility showcase, membership plans, trainer profile, photo gallery with lightbox, Google Maps, and WhatsApp/Call buttons. Fully responsive single HTML file with all images embedded.
+Fakhar Gym Hub - Gym & Fitness Website
+
+A modern and responsive website designed for a premium gym and fitness centre in Lodhran, Pakistan.
+
+Features
+
+
+Responsive Design
+Dark Cinematic Theme
+Facility Showcase Section
+Membership Plans
+Trainer Profile
+Photo Gallery with Lightbox
+Google Maps Location
+WhatsApp & Call Buttons
+Mobile Friendly
+
+
+Live Demo
+
+https://raoadee-dev.github.io/Fakhar-Gym-Hub-Website/
